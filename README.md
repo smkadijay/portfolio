@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="SMKYM-logo01-01.jpg" width="150" height="150" style="border-radius: 50%;">
+</p>
+
 # Portfolio
 # S.M. Kadija Yasmin
 Professional Graphics Designer | Computer Science Student | Aspiring App Developer
