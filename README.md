@@ -4,14 +4,14 @@
 
 # Portfolio
 # S.M. Kadija Yasmin
-Professional Graphics Designer | Computer Science Student | Aspiring App Developer
+Professional Graphics Designer | Computer Science Student | Aspiring App Developer | Front-end Developer
 
 ## About Me
 I am a passionate Computer Science student and a professional Graphics Designer with a focus on UI/UX and mobile application development. I love bridging the gap between design and functionality.
 
 ## Skills
 - **Design:** Figma, Adobe Illustrator, Photoshop, InDesign, UI/UX Design, Typography.
-- **Mobile & Web:** Flutter, Dart, Firebase, HTML, CSS, JavaScript.
+- **Mobile & Web:** Flutter, Dart, Firebase, HTML, CSS, JavaScript, React JS, PHP.
 - **Data Science:** Data Analysis (Kaggle), Data Visualization, Python.
 
 ## Education
